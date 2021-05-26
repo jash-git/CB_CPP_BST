@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1621992153 source:c:\users\jashliao\desktop\cb_cpp_bst\bst.cpp
+	"BST.h"
+
+1621992541 c:\users\jashliao\desktop\cb_cpp_bst\bst.h
+	<iostream>
+
+1621992643 source:c:\users\jashliao\desktop\cb_cpp_bst\main.cpp
+	<iostream>
+	<cstdlib>
+	"BST.h"
+
